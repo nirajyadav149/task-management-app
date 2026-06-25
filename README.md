@@ -32,10 +32,10 @@ A full-stack task management web application for creating, updating, and trackin
 
 task-management-app/
 ├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ └── package.json
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   └── package.json
 │
 ├── frontend/
 │
@@ -62,7 +62,12 @@ DELETE /api/tasks/:id
 ## Installation
 
 ```bash
-Author
-Niraj Kumar Yadav
 npm install
 npm start
+```
+
+## Author
+
+**Niraj Kumar Yadav**
+
+Full Stack Developer
