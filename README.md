@@ -62,5 +62,7 @@ DELETE /api/tasks/:id
 ## Installation
 
 ```bash
+Author
+Niraj Kumar Yadav
 npm install
 npm start
